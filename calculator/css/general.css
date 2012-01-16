@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin:0 auto;
+	padding:0;
+	background-color:#006633;
+	width:100%;
+}
+
+h1 {
+	margin: 50px auto 0;
+	width: 50%;
+	text-align:center;
+	padding: 50px;
+	background-color:#CCCC33;
+	
+}
+
+.calc {
+	margin: 5px auto;
+	padding:50px;
+	background-color:#FF6;
+	width: 50%;
+	
+	
+}
+
+.number {
+	
+
+}
+.operator {
+	padding-top: 20px;
+	
+}
+
+.button {
+	padding-top: 20px;
+	
+}
+
+.result {
+	background-color:#FFFF33;
+}
+
